@@ -1,5 +1,0 @@
-https://www.google.com
-https://es.wikipedia.org/wiki/P%C3%A1gina_principal
-https://noexiste.com/404page
-https://httpbin.org/status/200
-https://httpbin.org/status/500
